@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👋 Hello! I'm Uhlanoong — Full-Stack Developer
 
-<!--
-**Uhlanoong/Uhlanoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with over four years of experience working with NestJS, React, and modern web technologies. 
+I currently work at **Agro Solution**, helping develop digital tools for the agricultural sector.
 
-Here are some ideas to get you started:
+### 🧑‍💻 Tech Stack
+- **Backend:** NestJS, Node.js, PostgreSQL, MongoDB
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **DevOps/Cloud:** AWS, Docker, GitHub Actions
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me nstuuhlanoongrakhine@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- M.Pharm (Master of Pharmacy)  
+- B.Pharm (Bachelor of Pharmacy)
+
+### 🚀 Interests
+- Building scalable B2B software
+- Bridging tech and agriculture
+- Learning Japanese (JLPT N4 preparation!)
+
+### 📫 Let's Connect
+- 📧 Email: uhlanoongrk@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/uhlanoong-u-81b173137/
+
+Thanks for visiting!
+
