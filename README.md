@@ -10,7 +10,7 @@ I’m now actively seeking a **software engineering position**, with a strong in
 
 ### 📄 Career Summary
 - 👨‍💻 4+ years in full-stack software development
-- 🌾 Currently building CRM & ERP solutions for agriculture
+- 🌾 Currently building CRM solutions for agriculture
 - 🌍 Looking to relocate and contribute globally, especially in Japan
 - 🇯🇵 Studying Japanese (JLPT N4 candidate – July 2025)
 
