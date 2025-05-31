@@ -1,6 +1,7 @@
 ## 👋 Hello! I'm Uhlanoong — Full-Stack Developer
 
-I’m a software developer with over 4 years of hands-on experience in full-stack web development, specializing in NestJS and React. Currently, I’m working at Agro Solution, where I build scalable digital tools for the agricultural industry in Bangladesh.
+I’m a software developer with over 4 years of hands-on experience in full-stack web development, specializing in NestJS and React. 
+Currently, I’m working at **Agro Solution**, where I build scalable digital tools for the agricultural industry in Bangladesh.
 I’m now actively seeking a **software engineering position**, with a strong interest in companies offering opportunities for international developers.
 
 ### 🧑‍💻 Tech Stack
